@@ -35,3 +35,7 @@ The main.py file gives an example of how to use the algorithms. The functions ex
     import linearreg
 
 which clearly refer to the K-Nearest Neighbour, Cross-Validation, Data-Normalisation and the Linear Regression Algorithm implementations. They may also include other helper functions.
+
+TESTING
+---
+A modified version of the Iris training and test dataset is used to demonstrate how the algorithms would be used.
